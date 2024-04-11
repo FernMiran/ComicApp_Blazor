@@ -1,0 +1,11 @@
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\bin\Debug\net8.0\ComicApp.Contracts.deps.json
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\bin\Debug\net8.0\ComicApp.Contracts.dll
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\bin\Debug\net8.0\ComicApp.Contracts.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ComicApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ComicApp.Contracts.AssemblyInfoInputs.cache
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ComicApp.Contracts.AssemblyInfo.cs
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ComicApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ComicApp.Contracts.dll
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\refint\ComicApp.Contracts.dll
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ComicApp.Contracts.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Contracts\obj\Debug\net8.0\ref\ComicApp.Contracts.dll

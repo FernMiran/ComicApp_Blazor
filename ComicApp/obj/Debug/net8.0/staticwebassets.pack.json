@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fernanmi\\source\\repos\\ComicApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ComicApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ComicApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fernanmi\\source\\repos\\ComicApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\fernanmi\\source\\repos\\ComicApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fernanmi\\source\\repos\\ComicApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fernanmi\\source\\repos\\ComicApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ComicApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ComicApp.props",
+      "PackagePath": "build\\ComicApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ComicApp.props",
+      "PackagePath": "buildMultiTargeting\\ComicApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ComicApp.props",
+      "PackagePath": "buildTransitive\\ComicApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

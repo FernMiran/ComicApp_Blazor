@@ -1,0 +1,15 @@
+C:\Users\fernanmi\source\repos\ComicApp.Application\bin\Debug\net8.0\ComicApp.Application.deps.json
+C:\Users\fernanmi\source\repos\ComicApp.Application\bin\Debug\net8.0\ComicApp.Application.dll
+C:\Users\fernanmi\source\repos\ComicApp.Application\bin\Debug\net8.0\ComicApp.Application.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Application\bin\Debug\net8.0\ComicApp.Domain.dll
+C:\Users\fernanmi\source\repos\ComicApp.Application\bin\Debug\net8.0\ComicApp.Domain.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.csproj.AssemblyReference.cache
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.AssemblyInfoInputs.cache
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.AssemblyInfo.cs
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.8612C3B3.Up2Date
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.dll
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\refint\ComicApp.Application.dll
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ComicApp.Application.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Application\obj\Debug\net8.0\ref\ComicApp.Application.dll

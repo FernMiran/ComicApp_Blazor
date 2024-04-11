@@ -1,0 +1,11 @@
+C:\Users\fernanmi\source\repos\ComicApp.Domain\bin\Debug\net8.0\ComicApp.Domain.deps.json
+C:\Users\fernanmi\source\repos\ComicApp.Domain\bin\Debug\net8.0\ComicApp.Domain.dll
+C:\Users\fernanmi\source\repos\ComicApp.Domain\bin\Debug\net8.0\ComicApp.Domain.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ComicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ComicApp.Domain.AssemblyInfoInputs.cache
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ComicApp.Domain.AssemblyInfo.cs
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ComicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ComicApp.Domain.dll
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\refint\ComicApp.Domain.dll
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ComicApp.Domain.pdb
+C:\Users\fernanmi\source\repos\ComicApp.Domain\obj\Debug\net8.0\ref\ComicApp.Domain.dll
