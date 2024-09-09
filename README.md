@@ -1,4 +1,4 @@
-# Blazor CLEAN Architecture Web Application
+# Blazor, clean architecture web application
 
 ## Introduction
 
